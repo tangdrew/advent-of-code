@@ -1,0 +1,12 @@
+{
+  "name": "2019",
+  "version": "1.0.0",
+  "description": "Advent of Code 2019 Solutions",
+  "private": true,
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  }
+}
